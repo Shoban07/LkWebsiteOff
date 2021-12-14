@@ -1,0 +1,3 @@
+frcolor_main: #4d1539 -- Text color: Dark Pink
+bgcolor_main: #fafafa -- Pure White
+bg&frcolcor_secondary: #d14592
